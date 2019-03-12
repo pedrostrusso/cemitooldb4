@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 *.sw*
+backup_res
+intermediate
+results
+.directory
